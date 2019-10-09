@@ -6,3 +6,5 @@ class Song
     song.name = filename.split(" - ")[1]
   end
 end
+
+hello = Song.new
